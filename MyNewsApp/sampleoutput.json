@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Heinz Schenk",
+            "title": "AB de Villiers retires: 10 memorable innings from the batting wizard",
+            "description": "AB de Villiers on Friday announced his retirement from all cricket, bowing out at as one of the greatest batsmen of his generation. He leaves a legacy of great innings.",
+            "url": "https://www.news24.com/sport/cricket/proteas/ab-de-villiers-retires-10-memorable-innings-from-the-batting-wizard-20211119",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11709/ccd866d78e934d7bbc1090b07a8719f9.jpg",
+            "publishedAt": "2021-11-19T13:11:21+00:00",
+            "content": "AB de Villiers on Friday announced his retirement from all cricket, bowing out at as one of the greatest batsmen of his generation.\r\nSport24 looks at 10 of his most memorable innings.\r\n149 PROTEAS v … [+5480 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Kamva Somdyala",
+            "title": "'The most influential player of his generation' - cricket community bids farewell to AB de Villiers",
+            "description": "The cricket community is tipping its collective hat for the now retired AB de Villiers.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/the-most-influential-player-of-his-generation-cricket-community-bids-farewell-to-ab-de-villiers-20211119",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9256/7a5a80620b0d4756b152ae0417e2cc58.jpg",
+            "publishedAt": "2021-11-19T11:28:06+00:00",
+            "content": "Former Proteas batsman and captain AB de Villiers announced his retirement from all forms of cricket on Friday, triggering an outpouring of praise and celebration for the 37-year-old.\r\nKnown by many … [+2841 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "De Villiers retires from all cricket",
+            "description": "Former South Africa captain AB de Villiers announces his retirement from cricket.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59344258",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F385/production/_121614326__ai_3604.jpg",
+            "publishedAt": "2021-11-19T09:07:27.9631644Z",
+            "content": "AB de Villiers' final game was for IPL side Royal Challengers Bangalore\r\nFormer South Africa captain AB de Villiers has announced his retirement from cricket.\r\nHis last match was in October for India… [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Adam Goodwin",
+            "title": "Tim Paine steps down as Australia test cricket captain just weeks before first Ashes Test over sexually...",
+            "description": "",
+            "url": "https://talksport.com/sport/cricket/985354/tim-paine-text-messages-australia-test-cricket-captain-ashes/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/11/crop-985358.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2021-11-19T09:02:28Z",
+            "content": "Tim Paine has stepped down as Australia test cricket captain after revelations he had been investigated and cleared over sexually explicit text messages sent to a female former colleague four years a… [+2739 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Jackson Cole",
+            "title": "Azeem Rafiq ‘ashamed’ as ex-Yorkshire cricketer issues apology for using anti-Semitic language in messages...",
+            "description": "",
+            "url": "https://talksport.com/sport/cricket/985181/azeem-rafiq-apology-racist-messages-yorkshire/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/11/NINTCHDBPICT000694115443.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2021-11-18T17:50:03Z",
+            "content": "Azeem Rafiq has apologised for using racial slurs in an exchange of messages with another cricketer. \r\nThe former Yorkshire cricketer, 30, sent shockwaves in the sport with his testimony in front of … [+3719 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
